@@ -1,4 +1,4 @@
-# Khuliso-Heckathon
+# Khuliso-Profile
 <!DOCTYPE html>
 <html lang="en">
 <head>
